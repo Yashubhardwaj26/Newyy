@@ -1,0 +1,14 @@
+{
+    "header": {
+                "title": "This is main",
+                "subtitle": "This is subtext"
+            },
+    "footer": {
+                "chapter": "Chapter Title",
+                "page": 1,
+                "revision": "First"	
+            },
+    "body": {
+            "content": "This is a paragraph"
+            }
+}
